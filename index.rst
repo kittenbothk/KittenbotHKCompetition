@@ -7,4 +7,4 @@
     :maxdepth: 1
     :caption: 口罩佩戴AI辨識裝置設計比賽
 
-    aiMask/aiMaskIntro.md
+    aiMask/index
