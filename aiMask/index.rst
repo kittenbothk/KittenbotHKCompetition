@@ -7,3 +7,7 @@
 
     aiMaskIntro.md
     AiMaskTechnicalSupport.md
+    workshop.md
+    entries.md
+    highlights.md
+    awards.md
