@@ -8,3 +8,4 @@
     :caption: 口罩佩戴AI辨識裝置設計比賽
 
     aiMask/index
+    eitp2021/eitp2021.md
