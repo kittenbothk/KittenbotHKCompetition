@@ -8,4 +8,9 @@
     :caption: 口罩佩戴AI辨識裝置設計比賽
 
     aiMask/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: MR STEMer - micro:bit AI編程大賽2021
+
     eitp2021/eitp2021.md
