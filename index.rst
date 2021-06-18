@@ -13,4 +13,4 @@
     :maxdepth: 1
     :caption: MR STEMer - micro:bit AI編程大賽2021
 
-    eitp2021/eitp2021.md
+    eitp2021/index
