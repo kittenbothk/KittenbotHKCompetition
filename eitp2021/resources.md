@@ -23,9 +23,24 @@
 ## 示範影片：
 
 - 比賽示範
-  - <https://drive.google.com/file/d/12yls9Plnfm2feUMHXRcKA4Z4kadsZais/view?usp=drivesdk>
+  - <https://youtu.be/gUcXjmxuQjg>
 - 機械車組裝流程
+  - 影片：<https://youtube.com/playlist?list=PL5ITDrrFisheb08T0mbUnwh6dnRDOd4An>
+  - 投影片：<https://bit.ly/3gEmfJe>
 - 搖控程式、打開閘門程式、發送解密訊息程式示範
+  - 機械小車
+    - 程式示範：<https://youtu.be/iMsAjTkgm24>
+    - 範例程式：<https://makecode.microbit.org/_7WvLxfEXXhiP>
+  - 搖控器 
+    - 程式示範：<https://youtu.be/JIvqC-Yqeig>
+    - 範例程式：<https://makecode.microbit.org/_2tb63hfrqDc0>
+  - 答案展示 開啟閘門
+    - 程式示範：<https://youtu.be/I_2L0XMDLoA>
+    - 範例程式：<https://makecode.microbit.org/_bkkJcY1k75KX>
+  - KOI AI 鏡頭圖像識別
+    - 程式示範：<https://youtu.be/kQh_T_hAY7c>
+    - 範例程式：<https://makecode.microbit.org/_AmUfMW0hoJJo>
+  
 - Kittenbot KOI AI 圖像識別模組應用
 - KOI 與 Servo Motor 結合組裝示範
 
