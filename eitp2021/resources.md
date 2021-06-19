@@ -22,8 +22,8 @@
 
 ## 示範影片：
 
-下列比賽示範影片，將會於 2021 年 6 月 18 日 (星期五) 或之前發佈
 - 比賽示範
+  - <https://drive.google.com/file/d/12yls9Plnfm2feUMHXRcKA4Z4kadsZais/view?usp=drivesdk>
 - 機械車組裝流程
 - 搖控程式、打開閘門程式、發送解密訊息程式示範
 - Kittenbot KOI AI 圖像識別模組應用
