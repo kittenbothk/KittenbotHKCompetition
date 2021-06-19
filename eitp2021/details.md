@@ -83,7 +83,7 @@ micro:bit (顯示) - 顯示解密字母用的micro:bit
 
 機械車走到象形圖前並調較合適位置, 讓車上的KOI AI 鏡頭能對準象形圖並進行辨識。
 
-辨識結果由車上的microbit(主車) , 通過無線訊號傳送到micro:bit (顯示)上並顯示解密字母。
+辨識結果由microbit(主車) , 通過無線訊號傳送到micro:bit (顯示)上並顯示解密字母。
 
 **細節:**
 
@@ -91,17 +91,17 @@ micro:bit (顯示) - 顯示解密字母用的micro:bit
 
 2. 賽事一旦開始, 選手便不能再次觸碰microbit(顯示)。microbit(顯示)只能透過無線接收訊號及顯示解密字母。
 
-3. 當機械車上的 KOI AI 鏡頭識別到象形圖後，車上的micro:bit (主車)需通過無線訊號把結果傳送到microbit(顯示)上, 並把對應的英文字母顯示在microbit(顯示)上。
+3. 當機械車上的 KOI AI 鏡頭識別到象形圖後，車上的micro:bit (主車)需通過無線訊號把結果傳送到microbit(顯示), 並把對應的英文字母顯示在microbit(顯示)上。
 
 4. 部份密碼咭放置在micro:bit (閘門) 所控制的閘門後的封鎖通道，參賽者需要先行使用 KOI 識別指定**解鎖象形圖**，並通過相關的無線頻道傳送「G」訊息到microbit (閘門)，便能成功開啟閘門進入封鎖通道。
 
-   
-
-![](./images/HubSpacer5mm.png)
+   ![](./images/HubSpacer5mm.png)
 
 ## 比賽示範
 
-🎞 <https://youtu.be/gUcXjmxuQjg>
+大會
+
+🎥 <https://youtu.be/gUcXjmxuQjg>
 
 ![](./images/HubSpacer5mm.png)
 
