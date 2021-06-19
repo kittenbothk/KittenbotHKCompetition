@@ -1,7 +1,16 @@
 ﻿Kittenbot HK 比賽資訊站
 ==========================================
 
-歡迎來到Kittenbot HK 的比賽資訊站，大家可以在這個資訊站找到關於比賽章程與技術支援等的資訊，協助大家為比賽好好準備。
+歡迎來到Kittenbot HK 的比賽資訊站。
+大家可以在這個資訊站找到我們所舉辦之比賽章程﹑技術支援與回僱等資訊，讓大家為比賽作好準備。
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: MR STEMer - micro:bit AI編程大賽2021
+
+    eitp2021/index
+
 
 .. toctree::
     :maxdepth: 1
@@ -9,8 +18,4 @@
 
     aiMask/index
 
-.. toctree::
-    :maxdepth: 1
-    :caption: MR STEMer - micro:bit AI編程大賽2021
 
-    eitp2021/index
