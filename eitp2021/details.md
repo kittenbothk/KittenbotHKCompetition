@@ -97,9 +97,9 @@ micro:bit (顯示) - 顯示解密字母用的micro:bit
 
    ![](./images/HubSpacer5mm.png)
 
-## 比賽示範
+## 短片示範
 
-大會
+為讓各參賽者更清楚了解比賽玩法, 大會特意製作短片介紹
 
 🎥 <https://youtu.be/gUcXjmxuQjg>
 
