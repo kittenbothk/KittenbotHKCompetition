@@ -7,7 +7,7 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: MR STEMer - micro:bit AI編程大賽2021
+    :caption: MR STEMer - micro:bit AI編程大賽2021 *(7月9日截止報名)*
 
     eitp2021/index
 
