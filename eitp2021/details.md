@@ -42,8 +42,8 @@
 ## 機械車規格
 
 1. 機械車必須使用 **micro:bit**作主控系統
-2. 並配合 KittenBot **擴展板 Armourbit  或 Robotbit** 使用
-3. 物件識別必須主要使用**KittenBot KOI AI 鏡頭** 
+2. 並配合 KittenBot **擴展板 [Armourbit](https://kittenbothk.readthedocs.io/en/latest/functional_module/PWmodules/Armourbit.html)  或 [Robotbit](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit/Robotbitfull.html)** 使用
+3. 物件識別必須主要使用**KittenBot [KOI](https://kittenbothk.readthedocs.io/en/latest/AI%20Cam/index.html) AI 鏡頭** 
 4. 機械車可配合搖控器運作，類型沒有限制，例如：另一塊 micro:bit、搖控手掣、電腦均可
 5. 除 1-3 項指定設備外，參賽者可以運用任何材料、工具或技術改裝機械車
 6. 機械車在行走及識別密碼時，不可損壞場地及破壞密碼咭
