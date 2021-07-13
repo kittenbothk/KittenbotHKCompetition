@@ -25,6 +25,8 @@
 
 比賽大會將會提供設備借用服務，參賽學校可以向大會借用MRSTEMer 3合1格鬥小車或KOI AI鏡頭，數量有限，先到先得。
 
+[借用申請表格](https://drive.google.com/file/d/1xuXTS5QbojLXxSka37UOhgUVmsVEtEz1/view?usp=sharing)
+
 -  Kittenbot 三合一機械車組件🏎 x 共 40 套 (每隊參賽者，最多借用 2 套)
 -  Kittenbot KOI AI 鏡頭📷 x 共 40 套 (每隊參賽者，最多借用 2 套)
 -  所有借用的器材，必須於比賽當日完成賽事後，即時交還
