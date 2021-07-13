@@ -101,6 +101,8 @@ micro:bit (顯示) - 顯示解密字母用的micro:bit
 
 為讓各參賽者更清楚了解比賽玩法, 大會特意製作短片介紹
 
+![](./images/Video.png)
+
 🎥 <https://youtu.be/gUcXjmxuQjg>
 
 ![](./images/HubSpacer5mm.png)
