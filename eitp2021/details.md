@@ -35,7 +35,7 @@
 1. 圖案不大於 4cm x 4cm
 2. 使用雷射打印機在白紙上印出黑色圖案
 3. 圖案貼在紙板上，再貼在場地的牆壁上
-4. 圖案底部離地14cm![](./images/WallSideView.png)
+4. 圖案底部離地8cm![](./images/WallSideView.png)
 
 ![](./images/HubSpacer5mm.png)
 
