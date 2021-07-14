@@ -1,8 +1,6 @@
 # 借用器材清單
 
-
-
-#### 🛠 器材借用 
+### 🛠 借用器材資訊 
 
 如已向比賽大會提交器材借用表格, 將會收到由合辦機構 Kittenbot HK 安排寄出的包裹1份, 包含:
 
@@ -11,17 +9,45 @@
 
 詳細見下圖
 
+![](./images/3in1&KOI_01.jpeg)
 
 
-比賽大會將會提供設備借用服務，參賽學校可以向大會借用MRSTEMer 3合1格鬥小車或KOI AI鏡頭，數量有限，先到先得。
 
-[借用申請表格](https://drive.google.com/file/d/1xuXTS5QbojLXxSka37UOhgUVmsVEtEz1/view?usp=sharing)
+![](./images/3in1&KOI_02.jpeg)
 
--  Kittenbot 三合一機械車組件🏎 x 共 40 套 (每隊參賽者，最多借用 2 套)
--  Kittenbot KOI AI 鏡頭📷 x 共 40 套 (每隊參賽者，最多借用 2 套)
--  所有借用的器材，必須於比賽當日完成賽事後，即時交還
--  為確保器材能有效的運用，若參賽隊伍在領取借用器材後，臨時取消參加比賽，必須盡快將器材歸還到田家炳中學
--  需要借用器材的參賽隊伍，需要額外填寫「借用器材申請表」，並蓋上校印
-- 「借用器材申請表」下載連結附於比賽網上報名表上
-- 大會會發出確認電郵，並將借用器材寄送到參賽學校，或指定地址
+
+
+##### Kittenbot [三合一機械車組件](https://kittenbothk.readthedocs.io/en/latest/Kits/3in1/intro.html)
+
+1. 積木包 x1
+2. 65mm 車輪 x2
+3. GeekServo電機 x2
+4. GeekServo舵機 x1
+5. Robotbit 底座 x1
+
+
+
+##### Kittenbot [KOI](https://kittenbothk.readthedocs.io/en/latest/AI%20Cam/index.html) AI 鏡頭📷
+
+1. KOI AI 鏡頭 x1
+
+2. USB 線 x1
+
+3. 4芯轉dupont線 x1
+
+   ![](./images/HubSpacer5mm.png)
+
+### 📆 器材派送日期
+
+包裹將於2021年**7月19-23日期間**, 由順豐速遞派送到申請表上所示的收件人及學校地址。
+
+![](./images/HubSpacer5mm.png)
+
+### ❗ 注意事項
+
+- 為確保器材能有效的運用，若參賽隊伍在領取借用器材後，臨時取消參加比賽，必須盡快將器材歸還到田家炳中學
+
+- 所有借用的器材，必須於比賽當日完成賽事後**還原並即時交還**田家炳中學
+
+  
 
