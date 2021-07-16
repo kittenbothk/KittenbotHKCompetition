@@ -53,9 +53,9 @@
 
 
 
-各隊伍負責老師收到器才包裹點算數量無誤後, 請點撃連結**[確應收妥](https://forms.gle/x5Jr8mfCvEgLcrVU9)**。謝謝合作
+各隊伍負責老師收到器才包裹點算數量無誤後, 請點撃連結**[確應收妥](https://forms.gle/x5Jr8mfCvEgLcrVU9)**。謝謝合作!
 
-![](./images/QR_equipment reply.png)
+![](./images/QRequipmentReply.png)
 
 
 
