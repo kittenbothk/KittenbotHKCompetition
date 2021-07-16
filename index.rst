@@ -7,7 +7,7 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: MR STEMer - micro:bit AI編程大賽2021 *(7月27日線上工作坊)*
+    :caption: MR STEMer - micro:bit AI編程大賽2021 (27/07/2021, 2pm 線上工作坊)
 
     eitp2021/index
 
