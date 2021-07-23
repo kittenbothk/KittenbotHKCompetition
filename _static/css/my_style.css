@@ -106,6 +106,7 @@ span.toctree-expand:before{
     color: #2A7EFF;
     padding: 0.1rem;
     line-height: 1.6;
+    font-size: 24px;
 }
 
 .wy-nav-content h2{
