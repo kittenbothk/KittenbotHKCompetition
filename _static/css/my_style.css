@@ -7,8 +7,16 @@ body{
     margin: auto 0;
 }
 
+ol{
+    font-size: 24px;
+}
+
 p{
     line-height: 25px;
+    font-size: 24px;
+}
+
+h4{
     font-size: 24px;
 }
 
@@ -91,7 +99,8 @@ span.toctree-expand:before{
 
 .wy-menu-vertical a{
     color: #fbfbfb;
-} 
+    font-size: 24px;
+}
 
 .caption-text{
     letter-spacing: 0.75px;
@@ -106,7 +115,6 @@ span.toctree-expand:before{
     color: #2A7EFF;
     padding: 0.1rem;
     line-height: 1.6;
-    font-size: 24px;
 }
 
 .wy-nav-content h2{
