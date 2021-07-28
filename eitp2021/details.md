@@ -21,7 +21,7 @@
 
 ## 賽事場地
 
-![](./images/mapV2.jpeg)
+![](./images/mapV3.jpeg)
 
 1. 4 呎 x 8 呎 x 6 吋高 (2440mm x 1220mm x 150mm) 場地
 2. 使用木板進行分隔
