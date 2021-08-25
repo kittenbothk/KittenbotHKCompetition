@@ -50,29 +50,29 @@
 
 # 📽官方賽事精華短片
 
-#### 🏆大會花絮  [播放](https://drive.google.com/drive/folders/16relqJ3O1Ss1cnbsiwVS5EKRBH5eyxHi?usp=sharing)
+#### 🏆大會花絮  [播放](https://youtu.be/V6A-IR0jwWY)
 
 ![](./images/HubSpacer2mm.png)
 
 ### 小學組
 
-##### 🥇 將軍澳官立小學 [播放](https://drive.google.com/drive/folders/16relqJ3O1Ss1cnbsiwVS5EKRBH5eyxHi?usp=sharing)
+##### 🥇 將軍澳官立小學 [播放](https://youtu.be/K2Ub_R4y0R4)
 
-##### 🥈 九龍塘官立小學 [播放](https://drive.google.com/drive/folders/10tVaRGvj4t7I7nZclvzz98ebPk974ef0?usp=sharing)
+##### 🥈 九龍塘官立小學 [播放](https://youtu.be/8aaqyo27E1Q)
 
-##### 🥉 郭怡雅神父紀念學校 [播放](https://drive.google.com/drive/folders/1NmpJTP0E7lENua_y7vQcd9f70N7CL28V?usp=sharing)
+##### 🥉 郭怡雅神父紀念學校 [播放](https://youtu.be/Nz_etjU48_Y)
 
-##### 🎖  優異獎隊伍 [播放](https://drive.google.com/drive/folders/13RHbYirHn1mJ76igwOu-Xu8sIE4mQ0yA?usp=sharing)
+##### 🎖  優異獎隊伍 [播放](https://youtu.be/EVeD7noq2Ys)
 
 ![](./images/HubSpacer2mm.png)
 
 #### 中學組
 
-##### 🥇 中華基督教會銘基書院 [播放](https://drive.google.com/drive/folders/16relqJ3O1Ss1cnbsiwVS5EKRBH5eyxHi?usp=sharing)
+##### 🥇 中華基督教會銘基書院 [播放](https://youtu.be/FvdODv4z_v8)
 
-##### 🥈 佛教何南金中學 [播放](https://drive.google.com/drive/folders/10tVaRGvj4t7I7nZclvzz98ebPk974ef0?usp=sharing)
+##### 🥈 佛教何南金中學 [播放](https://youtu.be/mRrb0o4HF9o)
 
-##### 🥉 香港中文大學校友會聯會張煊昌中學 [播放](https://drive.google.com/drive/folders/1NmpJTP0E7lENua_y7vQcd9f70N7CL28V?usp=sharing)
+##### 🥉 香港中文大學校友會聯會張煊昌中學 [播放](https://youtu.be/KqkxKktzktY)
 
-##### 🎖  優異獎隊伍 [播放](https://drive.google.com/drive/folders/1NmpJTP0E7lENua_y7vQcd9f70N7CL28V?usp=sharing)
+##### 🎖  優異獎隊伍 [播放](https://youtu.be/uTQ1AqSX_gE)
 
