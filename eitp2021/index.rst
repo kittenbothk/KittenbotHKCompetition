@@ -13,4 +13,5 @@ MR STEMer - micro:bit AI編程大賽2021
     award.md
     ceremony.md
     highlightsd1.md
+    winners.md
     sharing.md
