@@ -20,7 +20,7 @@ p{
 }
 
 .wy-side-nav-search{
-    background: #0000ff;
+    background: #f99b30;
     padding: 0  .809em .809em !important;
     padding-bottom: 20px;
    
@@ -51,7 +51,7 @@ p{
 }
 
 .wy-menu-vertical p.caption{
-    color: #39CCCC;
+    color: #F99B30;
     font-size: 90% !important;
     letter-spacing: 0.75px;
 }
