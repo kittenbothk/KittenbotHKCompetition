@@ -249,7 +249,7 @@ texinfo_documents = [
 #     'collapse_navigation': False,  # Collapse navigation (False makes it tree-like)
 # }
 
-html_logo = 'images/competitionhub_logo.png'
+html_logo = 'images/competitionhub_logo_s.png'
 
 html_theme_options = {
     'canonical_url': '',
