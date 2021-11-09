@@ -22,4 +22,4 @@
     :maxdepth: 1
     :caption: Coding Carnival 2021
 
-    carnival/index
+    carnival2021/index
