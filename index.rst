@@ -18,4 +18,8 @@
 
     aiMask/index
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Coding Carnival 2021
 
+    carnival/index
