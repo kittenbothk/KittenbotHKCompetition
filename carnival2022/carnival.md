@@ -14,6 +14,10 @@ KittenBot HK在2022年12月至2023年1月將會舉辦Teacher Coding Carnival 202
 
 [LetIN Technology](https://www.facebook.com/letintec/)
 
+## 立即報名
+
+[報名表格](https://docs.google.com/forms/d/e/1FAIpQLSfArqQTTiLu8duHVkLoHdeP5x81k6a6l_RAIbFnhwlgNSUN_Q/viewform?usp=sf_link)
+
 ## 活動詳情
 
 ### 工作坊1: Microsoft Makecode Arcade 遊戲設計
