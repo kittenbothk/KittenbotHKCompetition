@@ -4,6 +4,17 @@
 歡迎來到Kittenbot HK 的比賽資訊站。
 大家可以在這個資訊站找到我們所舉辦之比賽章程﹑技術支援與回僱等資訊，讓大家為比賽作好準備。
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Coding Carnival 2022
+
+    carnival2022/carnival
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Coding Carnival 2021
+
+    carnival2021/carnival
 
 .. toctree::
     :maxdepth: 1
@@ -18,8 +29,3 @@
 
     aiMask/index
 
-.. toctree::
-    :maxdepth: 1
-    :caption: Coding Carnival 2021
-
-    carnival2021/index
