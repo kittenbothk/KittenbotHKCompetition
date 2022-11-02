@@ -90,7 +90,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Kittenbot HK CompetitionHub'
-copyright = '2020, Kittenbot HK'
+copyright = '2022, Kittenbot HK'
 author = 'Kittenbot HK team'
 
 # The version info for the project you're documenting, acts as replacement for
