@@ -1,8 +1,10 @@
 # Teacher Coding Carnival 2022
 
-KittenBot HK在2022年12月至2023年1月將會舉辦Teacher Coding Carnival 2022，邀請了不同教育機構的專業導師在連續四個星期舉辦編程工作坊向學界分享KittenBot的熱門產品的用法和貼地的應用案例。工作坊的內容圍繞創客，AI，遊戲設計和Python編程等的熱門內容。
+KittenBot HK在2022年12月至2023年1月將會舉辦Teacher Coding Carnival 2022，邀請了不同教育機構的專業導師舉辦編程工作坊向學界分享KittenBot的熱門產品的用法和貼地的應用案例。工作坊的內容圍繞創客，AI，遊戲設計和Python編程等的熱門內容。
 
 是次活動除了得到各教育機構的支持之外，KittenBot HK更加很榮幸地得到英華小學的支持，借出場地與電腦舉辦是次活動。
+
+![](./images/carnival_poster.jpg)
 
 特別鳴謝以下教學機構派出專業導師支持是次活動
 
@@ -16,7 +18,7 @@ KittenBot HK在2022年12月至2023年1月將會舉辦Teacher Coding Carnival 202
 
 ## 立即報名
 
-[報名表格](https://docs.google.com/forms/d/e/1FAIpQLSfArqQTTiLu8duHVkLoHdeP5x81k6a6l_RAIbFnhwlgNSUN_Q/viewform?usp=sf_link)
+## [報名表格](https://docs.google.com/forms/d/e/1FAIpQLSfArqQTTiLu8duHVkLoHdeP5x81k6a6l_RAIbFnhwlgNSUN_Q/viewform?usp=sf_link)
 
 ## 活動詳情
 
