@@ -6,6 +6,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: QTN 優質教育基金網絡工作坊
+
+    QTN/0601qtn
+
+.. toctree::
+    :maxdepth: 1
     :caption: Coding Carnival 2022
 
     carnival2022/carnival
