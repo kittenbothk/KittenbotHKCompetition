@@ -35,3 +35,8 @@
 
     aiMask/index
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Kittenbot Sharing Hub
+
+    https://sharinghub.kittenbot.hk/
