@@ -20,7 +20,7 @@
     :maxdepth: 1
     :caption: Coding Carnival 2021
 
-    carnival2021/carnival
+    carnival2021/index
 
 .. toctree::
     :maxdepth: 1
