@@ -14,7 +14,7 @@
     :maxdepth: 1
     :caption: Coding Carnival 2022
 
-    carnival2022/carnival
+    carnival2022/index
 
 .. toctree::
     :maxdepth: 1
