@@ -6,6 +6,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: MR STEMer - micro:bit AI編程大賽2023
+
+    eitp2023/index
+
+.. toctree::
+    :maxdepth: 1
     :caption: QTN 優質教育基金網絡工作坊
 
     QTN/0601qtn
@@ -27,7 +33,6 @@
     :caption: MR STEMer - micro:bit AI編程大賽2021
 
     eitp2021/index
-
 
 .. toctree::
     :maxdepth: 1
