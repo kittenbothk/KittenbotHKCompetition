@@ -4,7 +4,7 @@
 
 比賽經網上報名，比賽名額20隊，名額先到先得。
 
-📝網上報名連結：<https://forms.gle/Mfnj3mgVJtQux4Tw7>![](./images/qrcode.png)
+📝網上報名連結：
 
 ![](./images/HubSpacer5mm.png)
 
