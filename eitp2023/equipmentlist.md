@@ -10,13 +10,13 @@
 
 詳細見下圖
 
-![](./images/3in1&KOI_01.jpeg)
+![](./images/equipmentlist_2023_1.png)
 
 
-![](./images/3in1&KOI_02.jpeg)
+![](./images/equipmentlist_2023_2.png)
 
 
-##### Kittenbot [三合一機械車組件](https://kittenbothk.readthedocs.io/en/latest/Kits/3in1/intro.html)
+##### 1. Kittenbot [三合一機械車組件](https://kittenbothk.readthedocs.io/en/latest/Kits/3in1/intro.html)
 
 1. 積木包 x1
 2. 65mm 車輪 x2
@@ -24,11 +24,11 @@
 4. GeekServo舵機 x1
 5. Robotbit 底座 x1
 
-##### Kittenbot Robotbit 2.2 擴展板(https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit/index.html)
+##### 2. Kittenbot [Robotbit 2.2 擴展板](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit/index.html)
 
 1. Kittenbot Robotbit 2.2 擴展板
 
-##### Kittenbot [KOI](https://kittenbothk.readthedocs.io/en/latest/AI%20Cam/index.html) AI 鏡頭📷
+##### 3. Kittenbot [KOI](https://kittenbothk.readthedocs.io/en/latest/AI%20Cam/index.html) AI 鏡頭📷
 
 1. KOI AI 鏡頭 x1
 
@@ -51,6 +51,3 @@
 - 為確保器材能有效的運用，若參賽隊伍在領取借用器材後，臨時取消參加比賽，必須盡快將器材歸還到田家炳中學
 
 - 所有借用的器材，必須於比賽當日完成賽事後**還原並即時交還**田家炳中學
-
-  
-
