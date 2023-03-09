@@ -25,6 +25,16 @@
 
 ![](./images/HubSpacer5mm.png)
 
+#### 🛠 器材購買
+
+比賽器材套件: 
+
+1. Kittenbot robotbit 擴展板連鋰電池 x 4 (機械車與搖控)
+2. Kittenbot 3合1格鬥小車套裝 x 2
+3. Kittenbot KOI AI 鏡頭 x 2
+
+如需購買比賽器材套件，請[Whatsapp KittenBot HK](https://api.whatsapp.com/send?phone=85235656446&text=你好，我想購買MR%20STEMer%202023%20比賽器材)。
+
 #### 🛠 器材借用 
 
 比賽大會將會提供設備借用服務，參賽學校可以向大會借用 **MRSTEMer 3合1格鬥小車或KOI AI鏡頭**，數量有限，先到先得。
