@@ -10,10 +10,10 @@
 
 詳細見下圖
 
-![](./images/equipmentlist_2023_1.png)
+![](./images/equipmentlist_2023_1.jpg)
 
 
-![](./images/equipmentlist_2023_2.png)
+![](./images/equipmentlist_2023_2.jpg)
 
 
 ##### 1. Kittenbot [三合一機械車組件](https://kittenbothk.readthedocs.io/en/latest/Kits/3in1/intro.html)
@@ -24,9 +24,9 @@
 4. GeekServo舵機 x1
 5. Robotbit 底座 x1
 
-##### 2. Kittenbot [Robotbit 2.2 擴展板](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit/index.html)
+##### 2. Kittenbot [Robotbit 擴展板](https://kittenbothk.readthedocs.io/en/latest/Microbit_eboard/Robotbit/index.html)
 
-1. Kittenbot Robotbit 2.2 擴展板連電池
+1. Kittenbot Robotbit 擴展板連電池
 
 ##### 3. Kittenbot [KOI](https://kittenbothk.readthedocs.io/en/latest/AI%20Cam/index.html) AI 鏡頭📷
 
