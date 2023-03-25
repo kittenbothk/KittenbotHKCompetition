@@ -24,7 +24,7 @@
 
 - 機械小車
   - 程式解說：<https://youtu.be/iMsAjTkgm24>
-  - 範例程式：<https://makecode.microbit.org/_7WvLxfEXXhiP>
+  - 範例程式：<https://makecode.microbit.org/_Ax8D2YXmg8Pb>
 - 搖控器 
   - 程式解說：<https://youtu.be/JIvqC-Yqeig>
   - 範例程式：<https://makecode.microbit.org/_2tb63hfrqDc0>
