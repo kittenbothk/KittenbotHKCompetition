@@ -12,6 +12,12 @@
 
 參賽者成功報名後，大會將會安排Zoom網上簡介會，詳細講解比賽注意事項
 
+大會已經將簡介會的錄影片段上傳到YouTube。
+
+[![](./images/zoom_video.png)](https://youtu.be/Bl7sshUcSvc)
+
+[網上簡介會錄影](https://youtu.be/Bl7sshUcSvc)
+
 ## 器材
 
 #### 🛠 示範器材
