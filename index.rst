@@ -6,6 +6,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: Kittenbot @ BETT London 2023
+
+    bett2023/bett2023
+
+.. toctree::
+    :maxdepth: 1
     :caption: MR STEMer - micro:bit AI編程大賽2023
 
     eitp2023/index
