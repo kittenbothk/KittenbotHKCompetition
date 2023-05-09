@@ -8,5 +8,9 @@
 
 - 日期：2023年5月6日 (星期六)
 - 形式：網上進行
----
 
+## 頒獎典禮網上重溫
+
+[![](./images/ceremony_zoom.png)](https://drive.google.com/file/d/18CulovE2VHAKtqcKUQu-JcJiJmMwlz10/view?usp=sharing)
+
+### [Zoom錄影網上重溫](https://drive.google.com/file/d/18CulovE2VHAKtqcKUQu-JcJiJmMwlz10/view?usp=sharing)
