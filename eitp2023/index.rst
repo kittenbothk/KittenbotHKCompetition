@@ -12,6 +12,4 @@ MR STEMer - micro:bit AI編程大賽2023
     equipmentlist.md
     resources.md
     award.md
-    ceremony.md
-    winners.md
-    videos.md
+    
