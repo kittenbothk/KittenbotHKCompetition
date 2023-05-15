@@ -60,7 +60,7 @@
 
 ### 保良局黃永樹小學
 
-[相片分享](https://drive.google.com/drive/folders/1brEUG0OAVnE3B1Q_fW2GXZP7oi8bakqL?usp=sharing)
+[相片分享](https://drive.google.com/drive/folders/1EFsSNnu_u_bDpndv52qOswLZAinURyLJ?usp=sharing)
 
 ### 香港中文大學校友會聯會張煊昌中學
 
@@ -103,6 +103,10 @@
 [相片分享](https://drive.google.com/drive/folders/1D9OZ2o26kD1kMkz82PtKChitYvIwJqyr?usp=sharing)
 
 ### 鳳溪廖潤琛紀念學校
+
+[相片分享](https://drive.google.com/drive/folders/160NTOE4BG2UKd3v78JR6LtVaGUB_Nkov?usp=sharing)
+
+### 樂善堂梁黃蕙芳紀念學校
 
 [相片分享](https://drive.google.com/drive/folders/1hjCqEUtJ_lg5QXIbBo5iEzo6WTUuS_jU?usp=sharing)
 
