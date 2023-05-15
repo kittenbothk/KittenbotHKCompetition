@@ -1,19 +1,21 @@
-# 比賽花絮
+# 比賽花絮分享
+
+## 影片分享
 
 ## 編程大賽全日花絮
 
-[![](./images/video1.png)](https://drive.google.com/file/d/1nIThRaJoAqmRDN-IxaFlNBk30BdjvCmV/view?usp=sharing)
+[![](./images/video1.png)](https://youtu.be/EXqcPOr2Lm8)
 
-## [觀看影片](https://drive.google.com/file/d/1nIThRaJoAqmRDN-IxaFlNBk30BdjvCmV/view?usp=sharing)
+## [觀看影片](https://youtu.be/EXqcPOr2Lm8)
 
-## 小學組花絮
+## 小學組三甲花絮
 
-[![](./images/video2.png)](https://drive.google.com/file/d/1K1DUtIhZmODxgC_fUgYd8l-TbUQfBWFI/view?usp=sharing)
+[![](./images/video2.png)](https://youtu.be/OsH76zBP-5g)
 
-## [觀看影片](https://drive.google.com/file/d/1K1DUtIhZmODxgC_fUgYd8l-TbUQfBWFI/view?usp=sharing)
+## [觀看影片](https://youtu.be/OsH76zBP-5g)
 
-## 中學組花絮
+## 中學組三甲花絮
 
-[![](./images/video3.png)](hhttps://drive.google.com/file/d/1cnzEk1nHSoIv0Q48ohWiUaXy6ChLlJZE/view?usp=sharing)
+[![](./images/video3.png)](https://youtu.be/FR7IBEkAkh8)
 
-## [觀看影片](https://drive.google.com/file/d/1cnzEk1nHSoIv0Q48ohWiUaXy6ChLlJZE/view?usp=sharing)
+## [觀看影片](https://youtu.be/FR7IBEkAkh8)

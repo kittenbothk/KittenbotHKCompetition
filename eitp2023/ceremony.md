@@ -11,6 +11,6 @@
 
 ## 頒獎典禮網上重溫
 
-[![](./images/ceremony_zoom.png)](https://drive.google.com/file/d/18CulovE2VHAKtqcKUQu-JcJiJmMwlz10/view?usp=sharing)
+[![](./images/ceremony_zoom.png)](https://youtu.be/fAMV3W04v9E)
 
-### [Zoom錄影網上重溫](https://drive.google.com/file/d/18CulovE2VHAKtqcKUQu-JcJiJmMwlz10/view?usp=sharing)
+### [Zoom錄影網上重溫](https://youtu.be/fAMV3W04v9E)
