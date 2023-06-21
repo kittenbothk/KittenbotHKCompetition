@@ -6,6 +6,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: Microcode指尖編程工作坊暨新手賽2023
+
+    microcodeworkshop2023/microcodeworkshop
+
+.. toctree::
+    :maxdepth: 1
     :caption: Kittenbot @ BETT London 2023
 
     bett2023/bett2023
